@@ -5,6 +5,8 @@ Craftable Wooden Statues modeled after the animals of the game.
 
 Currently, only deer, moose, bear and wolf can be crafted, small and large sizes.
 
+All 4 large statues can be found once per world in fixed spawn spots.
+
 ### Special Thanks ###
 ---
 - nbakulev is the original creator of Wooden statuettes.
