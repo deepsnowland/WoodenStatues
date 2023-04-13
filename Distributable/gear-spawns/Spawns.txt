@@ -1,0 +1,11 @@
+scene=ruralregion
+item=GEAR_MooseToyLarge p=1416.0522,36.8672,2225.0718 r=2.6646,156.0242,0.1206 c=100
+
+scene=coastalregion
+item=GEAR_BearToyLarge p=454.5264,24.9574,179.9499 r=10.3458,70.1916,358.5838 c=100
+
+scene=dam
+item=GEAR_WolfToyLarge p=1.7740,0.0005,-8.3629 r=0.0000,352.0150,0.0000 c=100
+
+scene=whalingstationregion
+item=GEAR_StagToyLarge p=446.2628,15.7438,931.8488 r=0.0000,331.1616,0.0000 c=100

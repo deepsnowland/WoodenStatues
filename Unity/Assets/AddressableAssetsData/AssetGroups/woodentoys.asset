@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: woodentoys
+  m_EditorClassIdentifier: 
+  m_GroupName: woodentoys
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fccec7adeb4cb6e48a096dbae77f836a
+  m_SerializeEntries:
+  - m_GUID: 6fe3d91a7dd5c1349bc9e46e037d5466
+    m_Address: ico_CraftItem__BearToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 252d813c6f2f52d49a815246c71f428f
+    m_Address: ico_CraftItem__MooseToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12e1fd389e6dd6c4d95ea6fd748dac2d
+    m_Address: ico_CraftItem__StagToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14246a959e6a69c4f903262fc2cd4e37
+    m_Address: ico_CraftItem__WolfToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c2ce5ff93af33949ad78b8964651890
+    m_Address: ico_GearItem__BearToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d72e57ca3ab25b4980d43741d3e1a83
+    m_Address: ico_GearItem__MooseToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d5100a04dacad84bbfb4325c8458283
+    m_Address: ico_GearItem__StagToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 276401686c9aae6468e2e5c6b15c4975
+    m_Address: ico_GearItem__WolfToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96a1551dbbabcac40831683d6059d2cc
+    m_Address: ico_CraftItem__DoeToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d154d44eab40b9d46990b6a236d436a9
+    m_Address: GEAR_BearToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc9fddb3701b29a46afdaab72554f6fa
+    m_Address: GEAR_MooseToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89f50f95e9acb6043a3c487c16f548fc
+    m_Address: GEAR_StagToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6491fc987ecac44cb928489c3242c8e
+    m_Address: GEAR_WolfToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9ab08c24bde18449b08b704e11eba08
+    m_Address: ico_GearItem__StagToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab796ffd436aec84cb4048dab9d85534
+    m_Address: GEAR_StagToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d9181c0fed240447814f849f5893ea5
+    m_Address: GEAR_WolfToy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0780e50261a501846892ad1ed8205a86
+    m_Address: ico_GearItem__WolfToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5d10f6d903bf154c8911e6225fca712
+    m_Address: ico_GearItem__BearToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2309f21b7bd0da45a089fbb5ed22bda
+    m_Address: GEAR_BearToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0441885651c8fa408fbc0479f914d9b
+    m_Address: ico_GearItem__MooseToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f50209b6c18c5040aea3a1b65598578
+    m_Address: GEAR_MooseToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7da3776dbca4ed0428339cc6db08c444
+    m_Address: ico_CraftItem__BearToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f797c9b1e80770e42a3d7783f7a2035b
+    m_Address: ico_CraftItem__WolfToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dce7e4110e064ef48b630a95dd61412a
+    m_Address: ico_CraftItem__MooseToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ff56260ae41dcd4b96f2d731ab2b0d5
+    m_Address: ico_CraftItem__StagToyLarge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 77cc07c5d2727a6408faf54313999c05, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c0b1bd7689645314cbde413f8cde0cfd, type: 2}
+    - {fileID: 11400000, guid: 021472060a232eb499e8fce85f08076e, type: 2}

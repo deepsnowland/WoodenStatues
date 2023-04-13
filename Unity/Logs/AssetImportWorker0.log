@@ -1,0 +1,1016 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.6f1 (7da38d85baf6) revision 8233869'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'el' Physical Memory: 49067 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/PC/Desktop/WoodenStatuettes-master/Unity
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53365
+Successfully changed project path to: C:/Users/PC/Desktop/WoodenStatuettes-master/Unity
+C:/Users/PC/Desktop/WoodenStatuettes-master/Unity
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 58.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.6f1 (7da38d85baf6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/PC/Desktop/WoodenStatuettes-master/Unity/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   NVIDIA
+    VRAM:     10067 MB
+    Driver:   31.0.15.3141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56468
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007634 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.590 seconds
+Domain Reload Profiling:
+	ReloadAssembly (591ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (403ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (94ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (234ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (47ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (134ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005141 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  1.005 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1005ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (798ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (173ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (458ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (240ms)
+				ProcessInitializeOnLoadMethodAttributes (126ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2806 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 58 unused Assets / (56.3 KB). Loaded Objects now: 3245.
+Memory consumption went from 104.5 MB to 104.5 MB.
+Total: 5.762900 ms (FindLiveObjects: 0.218300 ms CreateObjectMapping: 0.143700 ms MarkObjects: 5.329200 ms  DeleteObjects: 0.070700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 817336.463213 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a984c9ad3d64e8c4f5bfb2ad051dae') in 0.109947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.823573 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aef02a3891711b364e14fe6c0c60a53') in 0.019478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 116.531928 seconds.
+  path: Assets/Prefabs/@blackBear_default_stand.prefab
+  artifactKey: Guid(80f6b04bbce02674a814a1b9e745ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/@blackBear_default_stand.prefab using Guid(80f6b04bbce02674a814a1b9e745ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79b9d57ea780d9a70c3c7536fa4b0ef0') in 0.007826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.713777 seconds.
+  path: Assets/Prefabs/@blackBear_default_stand.prefab
+  artifactKey: Guid(80f6b04bbce02674a814a1b9e745ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/@blackBear_default_stand.prefab using Guid(80f6b04bbce02674a814a1b9e745ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4376a1764232dbdd7af3597186fb268') in 0.006102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.297654 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff83b9c166ad0512fb4d98965558256c') in 0.013264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.466178 seconds.
+  path: Assets/Prefabs/bear_mesh_bear_18.asset
+  artifactKey: Guid(34af5a5a39eac004c8b3e1e969e9e5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bear_mesh_bear_18.asset using Guid(34af5a5a39eac004c8b3e1e969e9e5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65b2648f47f171dbc31b46bbf446ef7') in 0.023494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.051985 seconds.
+  path: Assets/Prefabs/@blackBear_default_stand.prefab
+  artifactKey: Guid(80f6b04bbce02674a814a1b9e745ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/@blackBear_default_stand.prefab using Guid(80f6b04bbce02674a814a1b9e745ac91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25d17d7857afbc4c534bb5fb0466f81') in 0.011456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.462124 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ada528ca970e2f9eb270c7c8edfd19') in 0.015851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.146354 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae61b0b4c5e266b376ea7de0da0e1a60') in 0.011459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.797056 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62261bc11552a22ebaea48cdd103ce53') in 0.011610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.040710 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c3a7fae557596e33dfb2a4f0f5dd2d') in 0.011298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.794844 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19349eb39dbea79606ec0ea4bd0f15c2') in 0.011143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.994331 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a134b7178c8e6568bce05fe23a797bd9') in 0.011441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.804009 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba984aec5770ebd032f9f692f0370d0') in 0.013811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.445362 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606270c6d988369462874134af749316') in 0.014124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.285740 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad9896fcc978cd3cc1ee461da2eb142') in 0.064354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.355385 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9efa8ea3a65330e3c602429a1f9b6fd') in 0.013112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.394923 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c6f8ad51dad92e1c7ef5492ec28273') in 0.016443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.810570 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadb24617f5614a5b987869f23068d5c') in 0.012744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.030867 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96aae8b04a204d8bb429a1ce01481ef') in 0.015648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.464761 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f399db847d36a848b34ccff5b8ecee48') in 0.035763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.818459 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3fcac72a0b8f0774705909ace43ce5') in 0.020007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.007194 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '918a58b1792e4698922d13c9aa891e30') in 0.014126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.173595 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e623bfc7e161837eb292a4036c5b8ed8') in 0.012993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.612786 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3684f3e7778b6a93948d2634e6522e7a') in 0.015033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.735446 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c939ffa17f827d0429c523dfcb852c93') in 0.014742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.000334 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bccc226001c6e56a5e5cb8bbb262665') in 0.012997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.192521 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98c3418b97988532dc018241fc313a4') in 0.013841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.018543 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32cdd25a3cc274c62473aab3f50e18a') in 0.018186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.176604 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf9602af3270d916fbb59c29321abc0') in 0.015746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.797092 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d58fa6f1e93835ce21fa6cfcd4c985a') in 0.010846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.193360 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a18c38a2a3d3c06018b647e8081f5f9') in 0.013645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.007855 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01e5a14acfd4b8d6ba41433997962106') in 0.010786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.192168 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8932092acda913f348973418134b1fec') in 0.013203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.219102 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c40e2c6ae260508c837e063705d597') in 0.011150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.177564 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5be9f033cd243de75a167c834e09c06') in 0.014089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.812845 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dfb99770a53f8737ff6455ce9456084') in 0.010946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.179704 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851621b87d1bbe7b7a49f916b70d97aa') in 0.012988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.227367 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a081c9eb773b02f725bbce5ee83ce4') in 0.010600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.388997 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6be838e2161bfc2b66471fd9f3d9d31') in 0.014379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.007882 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c2867c85df697821110b953d3b5612') in 0.012959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.109980 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5d729330e765f3bc492b75c030c7b6') in 0.014869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.154450 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0dfd8c662c42a61a4bff3624a8b9ee') in 0.010913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.398389 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b9b36776a977ede30bae7bdf65c76d') in 0.016393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.984265 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9128253dc2c9c6b5e80b83dfeb36bcf5') in 0.013365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.415832 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8577e9a0b0085e88e8c60eb2872bb063') in 0.012864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.188310 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4f998877052efda8ef8dc266e420990') in 0.014174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.227749 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f81ccdfaf4d3207ae70580a72a86e6') in 0.011136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.212517 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2858805902009e2ce0436c8a0ef34dd') in 0.014603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.183848 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c479280fd578b6606bf758d887cc4da') in 0.017731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.172746 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054c6fa04815a23cdf6db3df6bba7432') in 0.014073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.799334 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741a50cc7c5a00a4f2fcda92be454039') in 0.012488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.801059 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b876aacee3080e512328b838f4b59c8c') in 0.010697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.399552 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fe4fb7eeaca02a43ff924da9e3747a4') in 0.010868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.185132 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2092aeb293e69cedc084538dac22d723') in 0.015292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.828391 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca4e49cef27e4afbc4f687cee89de1a') in 0.010997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.197818 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35ce2c62e2838d40be3c1d9ba445388') in 0.013669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.613669 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5f21aadc1bf70996e9c03cddc4e4b4') in 0.010063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.178159 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8afad943270d5a075e7c51f729dfd6a2') in 0.012991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.803932 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58ae595dcfbd1596b56c5d27dc69104') in 0.010540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.190770 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffc31651e4ccc42e94a395bfcf6083b') in 0.017530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.999313 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f828f4e04a0c5cd92b852e5502c878') in 0.010940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.184319 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b120d8476e25983d146cf93fed91e8') in 0.013045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.661145 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89005891d1550c87b11a370abdd284d6') in 0.014871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.415579 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb45571d90a2b370fe3d5667855bb3f') in 0.013212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.841786 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12dd763513c14eb501f3c96cde7be0f4') in 0.013286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.644441 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b63fa864c57eb399ad53758d22d9113') in 0.011770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 55.527393 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__BearToyLarge.png
+  artifactKey: Guid(d5d10f6d903bf154c8911e6225fca712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__BearToyLarge.png using Guid(d5d10f6d903bf154c8911e6225fca712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f6433299e71da9c979ae723ca85b91') in 0.047205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 568.686706 seconds.
+  path: Assets/Prefabs/GEAR_BearToyLarge.prefab
+  artifactKey: Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_BearToyLarge.prefab using Guid(b2309f21b7bd0da45a089fbb5ed22bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f1d6b17c065ef70ebafb1e89f5ebf48') in 0.052388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 227.921598 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4812b9c198eae1d64743d097beace3') in 0.014681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.498888 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4451583161472480cd36b0003cc7bbb') in 0.012352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 382.430179 seconds.
+  path: Assets/Prefabs/moose_Mesh.asset
+  artifactKey: Guid(989812fc8f7b1174ea57b7c068638757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/moose_Mesh.asset using Guid(989812fc8f7b1174ea57b7c068638757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30fdfcd0f876db06e1b8a5a85f8b88d') in 0.017997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.343557 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8708d89cbc20678edb75be174a2a14d') in 0.015708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 146.250572 seconds.
+  path: Assets/Prefabs/WILDLIFE_Moose.prefab
+  artifactKey: Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/WILDLIFE_Moose.prefab using Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4131ce66de205aae25c16d147aff8241') in 0.008917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.772235 seconds.
+  path: Assets/Prefabs/WILDLIFE_Moose.prefab
+  artifactKey: Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/WILDLIFE_Moose.prefab using Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434bf40ec6de3d8bb29b7e41e2c2cd93') in 0.005501 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.922033 seconds.
+  path: Assets/Prefabs/WILDLIFE_Moose.prefab
+  artifactKey: Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/WILDLIFE_Moose.prefab using Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad30116833b2268220a85582ea8e97a2') in 0.013843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.182240 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33928494f81d10ebe6d1ccf0f76589a1') in 0.018610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 339.054090 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1fac4ec9d43bc1d83c739a65363980') in 0.015314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.380105 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8d4410024e9ea4a37afeba870f7f11') in 0.012373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.396834 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa252c3ac9270a3f36629bc20ddaf0ca') in 0.011753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 94.593649 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144f341be22d496a3e7e5a728d3fb529') in 0.016312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.600022 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68225f080d5bda309d0a0daf8cd1dbb8') in 0.012893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.392326 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5daf4afb84ee890347875bdf5d433b0c') in 0.013371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.601140 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94e403326a944fcdc778362b75f1d470') in 0.010827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.767469 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f65a9054386804bc1d15589f8fd572a9') in 0.016460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.040284 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561bc08718d1c903d7cd30c4548be077') in 0.011843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.006481 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531fd60e196f1288bc627272146a8cba') in 0.015361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.261145 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75fb1e3758840caa8dc9a39c17b4237b') in 0.017681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.206524 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0666089cb7df1a44a255c1d7788c62') in 0.014554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.818413 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70dc410f132d9c6975f4f51e4b651ad6') in 0.017303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.722183 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9abea9924b9a33348299681c3076e2') in 0.015532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.930764 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e621c62cf869d7b4a82d6732c96e5b22') in 0.016029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.611928 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26afedcd0fec61f348712b38b88616e4') in 0.019680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.585971 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33150dfa1dfaa66caf15506d68158e04') in 0.036784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.975505 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c10bfbff491d38c725008fbfd35b52') in 0.010952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.386306 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97c8dad8a4025826f5f5ae66bec023e') in 0.017702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.195348 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfd202e021f0f504a6642c7e94df1dd') in 0.011743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.811211 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb8d89f5979fb9a14d1285e57aaaf257') in 0.013579 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.201539 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c033af376b2f4557c4b8f8ad265e76') in 0.015683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.632999 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76d00d947001b96d0b701d8b26d9cc4') in 0.013436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.187571 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22a998cfa6630b7a5aa1b5685d715d7') in 0.018413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.406464 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad97f505d4dc4fa0e355a7b1466f7e6') in 0.018498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.175654 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd25ebfb0905d228a80ddbab2b50db7') in 0.016440 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.240421 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98f8ebf29f26477f998d684a79d8537') in 0.015011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.418400 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dfb2a6f0f1ba7f034511794162dd3cf') in 0.014952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.791337 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0896b40a017b4155d1c16245c9501b90') in 0.014637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.214286 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db43c4587e01b92afae0912ab47cd4dd') in 0.012839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.591159 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb433e24d69faa990ecf49a4e1857db') in 0.019545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.829441 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e349cc1fdc8e5ca9972b48d48ca45c7') in 0.010798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.363080 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11656f5e60c9fa4c76f8383013191a4b') in 0.016308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.236840 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00e9cde475293cad959f1f659167fdf7') in 0.010200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.182772 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad0a57c9f183394912a7f06ab4ee56a') in 0.015034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.217673 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfc15992d153b04daa8cdafc19a49af') in 0.017145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.195094 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c16ac9d06ebf6ad6175899e8921e7e') in 0.015513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.628575 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a47fc690980004d077827819683711') in 0.012911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.396920 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b89c084c4ef0eba497ba3d4da292f75') in 0.017564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.417343 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efdf7f0130d3de16e25d7725f233216d') in 0.024892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.167767 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c8c4f4ddfea6048dc705993ab28a26') in 0.014738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.012650 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f4135cd7cc0284ddc50c5b457a48fed') in 0.012673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.206977 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ae03fa28ca97bc7ddfa4a108779653') in 0.019001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.197148 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc5ab58d70c0ab77bfa569076d192a0') in 0.015331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.839736 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a51d2586a123ccc464171737f00fc756') in 0.018738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.222903 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1136b63ed64e85170f1e11257d4211') in 0.015659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.401690 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3346b5137fcb8d492bf79939e60c7caa') in 0.021174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.376765 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2a0260fae71b16b4e44ba2fb004351') in 0.015394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.238907 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4819f972431018b3fb0ef074aae6ed11') in 0.018664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.995379 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c615aeb3692db23c16ccf2be7cc5c3') in 0.015555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.183998 seconds.
+  path: Assets/Prefabs/WILDLIFE_Moose.prefab
+  artifactKey: Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/WILDLIFE_Moose.prefab using Guid(cf250c9669ed5f24e8197bfe9344cebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e987eedf79d6be38c4dd98bd12717506') in 0.003609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.159610 seconds.
+  path: Assets/InventoryGridIcons/ico_GearItem__MooseToyLarge.png
+  artifactKey: Guid(f0441885651c8fa408fbc0479f914d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InventoryGridIcons/ico_GearItem__MooseToyLarge.png using Guid(f0441885651c8fa408fbc0479f914d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3002fb87034aea6cbc52d52a6caf2d1b') in 0.009725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 480.209963 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04fba68d340643e9426463320aed677f') in 0.044963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.602118 seconds.
+  path: Assets/Prefabs/GEAR_MooseToyLarge.prefab
+  artifactKey: Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_MooseToyLarge.prefab using Guid(1f50209b6c18c5040aea3a1b65598578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03830a79764a3824da0d71c6ec8e1115') in 0.048989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.546679 seconds.
+  path: Assets/CraftingIcons
+  artifactKey: Guid(6492fc2100130b046a45df34d61a45ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons using Guid(6492fc2100130b046a45df34d61a45ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439447c3351bdbc98962c618edbdd398') in 0.002161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.629825 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__BearToy 1.png
+  artifactKey: Guid(d36091feeb383b5409574470fcfaed3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__BearToy 1.png using Guid(d36091feeb383b5409574470fcfaed3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b8bcb1de9408bb0e1daec66cea6f18a') in 0.010203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.842381 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__MooseToy 1.png
+  artifactKey: Guid(01d8ae68112164e439ad10af212cb397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__MooseToy 1.png using Guid(01d8ae68112164e439ad10af212cb397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e672475432792567103ab109d7a24c') in 0.009879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.399336 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__StagToy 1.png
+  artifactKey: Guid(ce079b51ca2bdb14bbfb7a77578563b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__StagToy 1.png using Guid(ce079b51ca2bdb14bbfb7a77578563b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75320a4579418578126930ae3c91c5c5') in 0.008978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.452136 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__WolfToy 1.png
+  artifactKey: Guid(6a5fd3c5e8dff5643a3a252f8cb5f293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__WolfToy 1.png using Guid(6a5fd3c5e8dff5643a3a252f8cb5f293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166c03137e822602d62e48d7dbdeb707') in 0.008647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.548144 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__BearToyLarge.png
+  artifactKey: Guid(7da3776dbca4ed0428339cc6db08c444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__BearToyLarge.png using Guid(7da3776dbca4ed0428339cc6db08c444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1574484c8c28434f93f5473f4e4b8290') in 0.015475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.316738 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__BearToyLarge.png
+  artifactKey: Guid(7da3776dbca4ed0428339cc6db08c444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__BearToyLarge.png using Guid(7da3776dbca4ed0428339cc6db08c444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21fee1fc4f33690bd02943103efa62d0') in 0.024633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.976223 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__MooseToyLarge.png
+  artifactKey: Guid(dce7e4110e064ef48b630a95dd61412a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__MooseToyLarge.png using Guid(dce7e4110e064ef48b630a95dd61412a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6b7cee856e6b6a9b9f35304278f2ca') in 0.031978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__WolfToyLarge.png
+  artifactKey: Guid(f797c9b1e80770e42a3d7783f7a2035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__WolfToyLarge.png using Guid(f797c9b1e80770e42a3d7783f7a2035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85036f48ce356a5d40066ec5cff3b863') in 0.024322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.429819 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__MooseToyLarge.png
+  artifactKey: Guid(dce7e4110e064ef48b630a95dd61412a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__MooseToyLarge.png using Guid(dce7e4110e064ef48b630a95dd61412a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02dddf150105b94c23b5b40ddbb5790') in 0.026271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.462482 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__StagToyLarge.png
+  artifactKey: Guid(0ff56260ae41dcd4b96f2d731ab2b0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__StagToyLarge.png using Guid(0ff56260ae41dcd4b96f2d731ab2b0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8491dc1c05d4d26ff128d9fe4fdf1bb') in 0.011787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.312886 seconds.
+  path: Assets/CraftingIcons/ico_CraftItem__WolfToyLarge.png
+  artifactKey: Guid(f797c9b1e80770e42a3d7783f7a2035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CraftingIcons/ico_CraftItem__WolfToyLarge.png using Guid(f797c9b1e80770e42a3d7783f7a2035b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6f78f24f869383d238f7fba6b62437') in 0.008369 seconds 

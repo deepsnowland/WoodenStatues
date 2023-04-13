@@ -1,0 +1,31 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_MooseToyLarge",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_MooseToyLargeDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Firestarting",
+                                "Radial" : "None",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 3.5,
+                                "InspectAngles" : [0, 90, 0],
+                                "InspectOffset" : [-0.15, -1.3, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModBurnableBehaviour": {
+                                "BurningMinutes" : 45,
+                                "BurningMinutesBeforeAllowedToAdd" : 0,
+                                "SuccessModifier" : 0,
+                                "TempIncrease" : 2.5,
+                                "DurationOffset" : 0
+                            }
+}

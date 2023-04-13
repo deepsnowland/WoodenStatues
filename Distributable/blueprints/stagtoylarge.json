@@ -1,0 +1,17 @@
+{
+    "Name": "StagToyLarge",
+    "RequiredGear": [{"Item":"GEAR_Hardwood","Count":1}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised","GEAR_Hatchet","GEAR_HatchetImprovised"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_StagToyLarge",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
