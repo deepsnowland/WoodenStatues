@@ -18,6 +18,8 @@ All 4 large statues can be found once per world in fixed spawn spots.
 - Download WoodenStatues.modcomponent from the releases page
 - Move WoodenStatues.modcomponent into your mods folder.
 
+Dependencies; ModSettings, ModComponent, LocalizationUtilities, GearSpawner, CraftingRevisions.
+
 ### Help needed
 ---
 I'm looking for folks who know how to create wood-related textures for Unity. 
