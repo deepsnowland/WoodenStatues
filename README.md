@@ -13,6 +13,7 @@ All 4 large statues can be found once per world in fixed spawn spots.
 - ds5678 maintained the mod before departure.
 
 ### Installation ###
+---
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - If you haven't done so already, install the latest version of ModComponent and its dependencies.
 - Download WoodenStatues.modcomponent from the releases page
