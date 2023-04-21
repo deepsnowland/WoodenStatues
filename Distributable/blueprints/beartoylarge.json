@@ -1,6 +1,6 @@
 {
     "Name": "BearToyLarge",
-    "RequiredGear": [{"Item":"GEAR_Hardwood","Count":2}],
+    "RequiredGear": [{"Item":"GEAR_Hardwood","Count":4}],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
     "RequiredTool": "GEAR_Knife",

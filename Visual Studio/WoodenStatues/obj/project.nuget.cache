@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1iWJu2k22ZNNaMIbJ9fPGR/aNvnxOkIDpM7fLirKy/VC7zdY6iFHULtlc6Zt4Y0QFI7KsZwIu/yasyQ6sTAxfQ==",
+  "dgSpecHash": "j/AUOo4ZfI8FAfEXEisFcPfdNG6TWodzxwborPWJlix1PMnISDPd/3hzf5jpnJ3hPOiXfumdIIMSkywgIBj9Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\WoodenStatuettes-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\My mods\\WoodenStatues-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver\\5.0.0\\asmresolver.5.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\asmresolver.dotnet\\5.0.0\\asmresolver.dotnet.5.0.0.nupkg.sha512",

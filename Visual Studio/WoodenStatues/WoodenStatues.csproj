@@ -14,4 +14,10 @@
     <PackageReference Include="STBlade.Modding.TLD.Il2CppAssemblies.Windows" Version="2.10.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="ModSettings">
+      <HintPath>F:\SteamLibrary\steamapps\common\TheLongDark\Mods\ModSettings.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
