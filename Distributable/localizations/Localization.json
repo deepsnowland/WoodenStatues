@@ -9,42 +9,49 @@
     },
 	"GAMEPLAY_BearToyLarge":{
         "English":"Large bear toy",
+	"Japanese":"大きなクマの彫像",
 	},
 	"GAMEPLAY_BearToyLargeDescription":{
         "English":"Very lazy animals but quite dangerous when provoked, can easily catch up to you too. While they look fat, they can outrun Usain Bolt.",
     },
 	"GAMEPLAY_StagToy":{
         "English":"Deer toy",
+	"Japanese":"シカの彫像",
 	},
     "GAMEPLAY_StagToyDescription":{
         "English":"Peaceful animals. Way too peaceful sometimes.",
     },
 	"GAMEPLAY_MooseToy":{
         "English":"Moose toy",
+	"Japanese":"ヘラジカの彫像",
 	},
     "GAMEPLAY_MooseToyDescription":{
         "English":"Like deer but strong, taller, fatter and will defend themselves against crazed humans.",
     },
 	"GAMEPLAY_MooseToyLarge":{
         "English":"Large moose toy",
+	"Japanese":"大きなヘラジカの彫像",
 	},
     "GAMEPLAY_MooseToyLargeDescription":{
         "English":"Like deer but strong, taller, fatter and will defend themselves against crazed humans. Their stomps are rather strong and they are the largest animals in the island.",
 	},	
 	"GAMEPLAY_WolfToy":{
         "English":"Wolf toy",
+	"Japanese":"オオカミの彫像",
 	},
 	"GAMEPLAY_WolfToyDescription":{
         "English":"Awoo bork bork. They are everywhere and aren't looking for headpats.",
 	},
 	"GAMEPLAY_StagToyLarge":{
         "English":"Large deer toy",
+	"Japanese":"大きなシカの彫像",
 	},
     "GAMEPLAY_StagToyLargeDescription":{
         "English":"Peaceful animals. Way too peaceful sometimes. They are about this big.",
     },
 	"GAMEPLAY_WolfToyLarge":{
         "English":"Large Wolf toy",
+	"Japanese":"大きなオオカミの彫像",
 	},
 	"GAMEPLAY_WolfToyLargeDescription":{
         "English":"Awoo bork bork. They are everywhere and aren't looking for headpats. If only you could cuddle with them peacefully.",
