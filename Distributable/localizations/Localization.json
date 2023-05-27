@@ -5,7 +5,7 @@
 	},
 	"GAMEPLAY_BearToyDescription":{
         "English":"Very lazy animals but quite dangerous when provoked, can easily catch up to you too.",
-	"Japanese":"とても怠惰な動物だが怒った時は極めて危険で、君を簡単に捕らえることができる。",
+	"Japanese":"とても怠惰な動物だが怒った時は非常に危険で、君を簡単に捕まえてしまう。",
     },
 	"GAMEPLAY_BearToyLarge":{
         "English":"Large bear toy",
@@ -13,6 +13,7 @@
 	},
 	"GAMEPLAY_BearToyLargeDescription":{
         "English":"Very lazy animals but quite dangerous when provoked, can easily catch up to you too. While they look fat, they can outrun Usain Bolt.",
+	"Japanese":"とても怠惰な動物だが怒った時は非常に危険で、君を簡単に捕まえてしまう。太って見えるけど、ウサイン・ボルトを追い抜くことができる。"
     },
 	"GAMEPLAY_StagToy":{
         "English":"Deer toy",
@@ -20,6 +21,7 @@
 	},
     "GAMEPLAY_StagToyDescription":{
         "English":"Peaceful animals. Way too peaceful sometimes.",
+	"Japanese":"平和的な動物だ。時には平和すぎるくらい平和的だ。"
     },
 	"GAMEPLAY_MooseToy":{
         "English":"Moose toy",
@@ -27,6 +29,7 @@
 	},
     "GAMEPLAY_MooseToyDescription":{
         "English":"Like deer but strong, taller, fatter and will defend themselves against crazed humans.",
+	"Japanese":"鹿に似ているが、より強く、より大きく、より太っている、そしていかれた人間たちから自力で身を守れる。"
     },
 	"GAMEPLAY_MooseToyLarge":{
         "English":"Large moose toy",
@@ -34,6 +37,7 @@
 	},
     "GAMEPLAY_MooseToyLargeDescription":{
         "English":"Like deer but strong, taller, fatter and will defend themselves against crazed humans. Their stomps are rather strong and they are the largest animals in the island.",
+	"Japanese":"鹿に似ているが、より強く、より大きく、より太っている、そしていかれた人間たちから自力で身を守れる。こいつらの踏みつけはかなり強力で、島で一番大きな動物だ。"
 	},	
 	"GAMEPLAY_WolfToy":{
         "English":"Wolf toy",
@@ -41,6 +45,7 @@
 	},
 	"GAMEPLAY_WolfToyDescription":{
         "English":"Awoo bork bork. They are everywhere and aren't looking for headpats.",
+	"Japanese":"ウォーン、ワン、ワン。こいつらはどこにでもいるけど、頭を撫でてくれる相手は求めてないようだ。"
 	},
 	"GAMEPLAY_StagToyLarge":{
         "English":"Large deer toy",
@@ -48,6 +53,7 @@
 	},
     "GAMEPLAY_StagToyLargeDescription":{
         "English":"Peaceful animals. Way too peaceful sometimes. They are about this big.",
+	"Japanese":"平和的な動物だ。時には平和すぎるくらい平和的だ。実物はだいたいこのくらいの大きさだ。"
     },
 	"GAMEPLAY_WolfToyLarge":{
         "English":"Large Wolf toy",
@@ -55,5 +61,6 @@
 	},
 	"GAMEPLAY_WolfToyLargeDescription":{
         "English":"Awoo bork bork. They are everywhere and aren't looking for headpats. If only you could cuddle with them peacefully.",
+	"Japanese":"ウォーン、ワン、ワン。こいつらはどこにでもいるけど、頭を撫でてくれる相手は求めてないようだ。もし君が彼らと平和的に寄り添えたとしてもだ。"
 	},
 }
