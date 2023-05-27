@@ -1,6 +1,6 @@
 {
     "Name": "WolfToyLarge",
-    "RequiredGear": [{"Item":"GEAR_Hardwood","Count":1}],
+    "RequiredGear": [{"Item":"GEAR_Hardwood","Count":2}],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
     "RequiredTool": "GEAR_Knife",

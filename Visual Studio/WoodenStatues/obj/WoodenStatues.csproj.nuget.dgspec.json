@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\WoodenStatuettes-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj": {}
+    "C:\\Users\\PC\\Desktop\\My mods\\WoodenStatues-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\WoodenStatuettes-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj": {
+    "C:\\Users\\PC\\Desktop\\My mods\\WoodenStatues-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\WoodenStatuettes-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\My mods\\WoodenStatues-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj",
         "projectName": "WoodenStatues",
-        "projectPath": "C:\\Users\\PC\\Desktop\\WoodenStatuettes-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\My mods\\WoodenStatues-master\\Visual Studio\\WoodenStatues\\WoodenStatues.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\WoodenStatuettes-master\\Visual Studio\\WoodenStatues\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\My mods\\WoodenStatues-master\\Visual Studio\\WoodenStatues\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

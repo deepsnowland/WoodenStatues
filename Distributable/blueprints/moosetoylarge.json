@@ -1,6 +1,6 @@
 {
     "Name": "MooseToyLarge",
-    "RequiredGear": [{"Item":"GEAR_Hardwood","Count":2}],
+    "RequiredGear": [{"Item":"GEAR_Hardwood","Count":5}],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
     "RequiredTool": "GEAR_Knife",

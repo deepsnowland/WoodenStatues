@@ -22,3 +22,17 @@ C:\Users\PC\Desktop\WoodenStatuettes-master\Visual Studio\WoodenStatues\obj\Debu
 C:\Users\PC\Desktop\WoodenStatuettes-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\refint\WoodenStatues.dll
 C:\Users\PC\Desktop\WoodenStatuettes-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.pdb
 C:\Users\PC\Desktop\WoodenStatuettes-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\ref\WoodenStatues.dll
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.AssemblyInfo.cs
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.dll
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\refint\WoodenStatues.dll
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.pdb
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\bin\Debug\net6.0\WoodenStatues.deps.json
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\bin\Debug\net6.0\WoodenStatues.dll
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\bin\Debug\net6.0\WoodenStatues.pdb
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\bin\Debug\net6.0\ModSettings.dll
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\WoodenStatues.csproj.CopyComplete
+C:\Users\PC\Desktop\WoodenStatues-master\Visual Studio\WoodenStatues\obj\Debug\net6.0\ref\WoodenStatues.dll
